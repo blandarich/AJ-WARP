@@ -1,4 +1,4 @@
-# Misaka WARP 脚本 - WARP-Cli
+# WARP-Cli
 
 使用官方CloudFlare WARP客户端开启Socks5代理，实现VPS内的代理上网
 
@@ -9,26 +9,26 @@
 ### 安装WARP-Cli并设置代理模式
 
 ```shell
-wget -N https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/warp-cli/warp-cli.sh && bash warp-cli.sh
+wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP/master/warp-cli/warp-cli.sh && bash warp-cli.sh
 ```
 
 ### 修改WARP-Cli代理端口
 
 ```shell
-wget -N https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/warp-cli/changeport.sh && bash changeport.sh
+wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP//master/warp-cli/changeport.sh && bash changeport.sh
 ```
 
 ### 开启/关闭WARP-Cli代理模式
 
 ```shell
-wget -N https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/warp-cli/switch.sh && bash switch.sh
+wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP/master/warp-cli/switch.sh && bash switch.sh
 ```
 
 
 ### 卸载WARP-Cli
 
 ```shell
-wget -N https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/warp-cli/uninstall.sh && bash uninstall.sh
+wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP/master/warp-cli/uninstall.sh && bash uninstall.sh
 ```
 
 ### 刷Netfilx IP
@@ -36,12 +36,3 @@ wget -N https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master
 ```shell
 wget -N https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/warp-cli/netfilxcli.sh && bash netfilxcli.sh
 ```
-
-可搭配 [Screen 管理脚本](https://github.com/Misaka-blog/screenManager) 使用最佳
-
-## 赞助我们
-
-![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
-
-## 交流群
-[Telegram](https://t.me/misakanetcn)
