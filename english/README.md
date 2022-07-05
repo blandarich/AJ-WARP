@@ -3,10 +3,10 @@
 ## Usage
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/english/misakawarp.sh && bash misakawarp.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/blandarich/AJ-WARP/master/english/ajwarp.sh && bash ajwarp.sh
 ```
 
-Shortcut: `bash misakawarp.sh`
+Shortcut: `bash ajwarp.sh`
 
 ## Some of the benefits of WARP
 
@@ -25,12 +25,6 @@ IPv6-built nodes can be used on IPv4-only PassWall and ShadowSocksR Plus+
 The default IP priority of the VPS is used in order to prevent lost connections due to scripted priority changes during installation. If you need to configure it, you can refer to the P3Terx article (in Chinese) at
 
 https://p3terx.com/archives/use-cloudflare-warp-to-add-extra-ipv4-or-ipv6-network-support-to-vps-servers-for-free.html#toc_8
-
-## WARP+ or WARP Teams account access (written in Chinese)
-
-WARP+: https://owo.misaka.rest/cfwarp-plus/
-
-WARP Teams: https://owo.misaka.rest/cf-teams/
 
 ## Frequently Asked Questions
 
