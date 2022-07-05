@@ -1,28 +1,16 @@
-# Misaka WARP 脚本
-
-支持手工菜单+全自动化脚本安装。支持AMD64、ARM64和S390X CPU架构的VPS、支持KVM、ZVM、OpenVZ和LXC虚拟化架构的VPS
-
-已集成至：https://github.com/Misaka-blog/Xray-script
-
-如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
-
-详细讲解视频：7月份会出
-
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/misakawarp.sh && bash misakawarp.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/blandarich/AJ-WARP/master/ajwarp.sh && bash ajwarp.sh
 ```
 
-快捷方式 `bash misakawarp.sh`
+快捷方式 `bash ajwarp.sh`
 
 > 如提示 `wget: command not found` 请安装wget后再执行本脚本
 
 > CentOS: `yum install -y wget` Debian / Ubuntu: `apt install -y wget`
 
 ## WARP的一些好处
-
-解锁奈飞流媒体 （部分地区的WARP IP已凉）
 
 避免 Google Recaptcha 验证码或是使用 Google 学术搜索
 
@@ -43,12 +31,6 @@ https://p3terx.com/archives/use-cloudflare-warp-to-add-extra-ipv4-or-ipv6-networ
 ## 各客户端差异及对比
 
 ![image](https://user-images.githubusercontent.com/96560028/160945334-9572ec6d-7b10-4081-a83a-2d1c475ea2e3.png)
-
-## WARP+或WARP Teams账户获取
-
-WARP+：https://owo.misaka.rest/cfwarp-plus/
-
-WARP Teams：https://owo.misaka.rest/cf-teams/
 
 ## 常见问题
 
@@ -77,13 +59,6 @@ WARP Teams：https://owo.misaka.rest/cf-teams/
 ### 4. 无法在Wgcf-WARP或Wireproxy-WARP使用WARP+账号？
 
 这是因为你的WARP+流量不够导致的，还是乖乖刷好足够流量再尝试吧
-
-## 赞助我们
-
-![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
-
-## 交流群
-[Telegram](https://t.me/misakanetcn)
 
 ## 鸣谢列表
 
