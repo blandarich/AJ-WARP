@@ -1,5 +1,3 @@
-# Misaka WARP Script
-
 ## Usage
 
 ```shell
