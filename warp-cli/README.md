@@ -15,7 +15,7 @@ wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP/master/warp-cli/wa
 ### 修改WARP-Cli代理端口
 
 ```shell
-wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP//master/warp-cli/changeport.sh && bash changeport.sh
+wget -N https://raw.githubusercontents.com/blandarich/AJ-WARP/master/warp-cli/changeport.sh && bash changeport.sh
 ```
 
 ### 开启/关闭WARP-Cli代理模式
